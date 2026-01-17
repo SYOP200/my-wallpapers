@@ -5,3 +5,4 @@ This a collection of some of my favorite wallpapers and images.
 
 ## Wallpapers 
 [Dark](https://github.com/SYOP200/my-wallpapers/tree/main/Dark)
+[Funny](https://github.com/SYOP200/my-wallpapers/tree/main/Funny)
