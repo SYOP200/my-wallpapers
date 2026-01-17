@@ -7,6 +7,9 @@ This a collection of some of my favorite wallpapers and images.
 - [Dark](https://github.com/SYOP200/my-wallpapers/tree/main/Dark) <br>
 - [Funny](https://github.com/SYOP200/my-wallpapers/tree/main/Funny) <br>
 - [Hacker](https://github.com/SYOP200/my-wallpapers/tree/main/Hacker) <br>
+- [Abstract](https://github.com/SYOP200/my-wallpapers/tree/main/Abstract) <br>
+- [Nord](https://github.com/SYOP200/my-wallpapers/tree/main/Nord)
+- [Nature](https://github.com/SYOP200/my-wallpapers/tree/main/Nature)
 
 ## Contributing
 If you have images and wallpapers to upload, please create a pull request.
